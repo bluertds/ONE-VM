@@ -1,6 +1,6 @@
 {
-  "name": "ONE-VM-Z",
-  "description": "ONE-VM-Z",
+  "name": "ONE-Z",
+  "description": "ONE-Z",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/bluertds/ONE-VM-Z",
-  "repository": "https://github.com/bluertds/ONE-VM-Z",
+  "website": "https://github.com/bluertds/ONE-Z",
+  "repository": "https://github.com/bluertds/ONE-Z",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
